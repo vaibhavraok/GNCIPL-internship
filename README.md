@@ -108,3 +108,26 @@ Highlights:
     Cluster 0: Low pollution zones (cleaner air, safer for residential)
     
     Cluster 1: High pollution zones (industrial/traffic-heavy areas)
+
+5. MNIST Digit Classifier (Week 5)
+
+Domain: Computer Vision / Deep Learning
+Tools Used: Python, NumPy, Keras, TensorFlow, Matplotlib
+Dataset: MNIST Handwritten Digits (60,000 train, 10,000 test images)
+
+Description:
+Built an Artificial Neural Network (ANN) model to classify handwritten digits (0–9) using the MNIST dataset. The project demonstrated fundamental deep learning concepts including forward propagation, backpropagation, and softmax activation.
+
+Highlights:
+
+        Preprocessed grayscale images (28×28 pixels).
+        
+        Implemented ANN with input → hidden → output layers using Keras Sequential API.
+        
+        Used Softmax activation for multi-class classification.
+        
+        Trained with backpropagation & optimized using Adam.
+        
+        Achieved >97% accuracy on the test dataset.
+        
+        Visualized predictions with confusion matrix & sample digit outputs.

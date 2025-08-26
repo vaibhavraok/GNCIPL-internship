@@ -1,4 +1,5 @@
 Internship Projects:
+
 This repository contains the projects completed during my internship at GLOBAL NEXT CONSULTING INDIA PRIVATE LIMITED (GNCIPL).
 
 🏢 Company: GLOBAL NEXT CONSULTING INDIA PVT. LTD.

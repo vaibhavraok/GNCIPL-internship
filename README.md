@@ -1,4 +1,4 @@
-Internship Projects:
+Internship Projects
 
 This repository contains the projects completed during my internship at GLOBAL NEXT CONSULTING INDIA PRIVATE LIMITED (GNCIPL).
 
@@ -8,7 +8,7 @@ This repository contains the projects completed during my internship at GLOBAL N
 🌐 Website: www.gncipl.com
 
 📁 Projects Included
-1. Disease Diagnosis Accuracy (week 1)
+1. Disease Diagnosis Accuracy (Week 1)
 
 Domain: Medical Science
 Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
@@ -19,17 +19,17 @@ Evaluated diagnostic accuracy of various medical tests using classification and 
 
 Highlights:
 
-Preprocessed patient medical test results.
+Preprocessed patient medical test results
 
-Built confusion matrix to evaluate predictions.
+Built confusion matrix to evaluate predictions
 
-Generated ROC curves to compare test effectiveness.
+Generated ROC curves to compare test effectiveness
 
-Analyzed false positive and false negative rates.
+Analyzed false positive and false negative rates
 
-Derived insights for improving diagnostic reliability.
+Derived insights for improving diagnostic reliability
 
-2. Credit Card Fraud Detection (week 2)
+2. Credit Card Fraud Detection (Week 2)
 
 Domain: Finance / Cybersecurity
 Tools Used: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, PCA
@@ -40,17 +40,17 @@ Performed exploratory data analysis (EDA) on a highly imbalanced transaction dat
 
 Highlights:
 
-Cleaned anonymized credit card transaction data.
+Cleaned anonymized credit card transaction data
 
-Explored outlier trends and correlations in fraud vs non-fraud transactions.
+Explored outlier trends and correlations in fraud vs non-fraud transactions
 
-Applied PCA for dimensionality reduction and visualization.
+Applied PCA for dimensionality reduction and visualization
 
-Used heatmaps, histograms, and boxplots to identify fraud-related anomalies.
+Used heatmaps, histograms, and boxplots to identify fraud-related anomalies
 
-Derived actionable insights into fraudulent behavior patterns.
+Derived actionable insights into fraudulent behavior patterns
 
-3. E-commerce User Behavior Segmentation (week 3)
+3. E-commerce User Behavior Segmentation (Week 3)
 
 Domain: E-commerce / Customer Analytics
 Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Hierarchical Clustering
@@ -61,16 +61,15 @@ Implemented customer segmentation for an e-commerce platform by analyzing user p
 
 Highlights:
 
-Preprocessed online retail transaction logs (removed duplicates, handled missing values).
+Preprocessed online retail transaction logs (removed duplicates, handled missing values)
 
-Applied Hierarchical Clustering to group users based on purchase frequency, recency, and monetary value (RFM analysis).
+Applied Hierarchical Clustering to group users based on purchase frequency, recency, and monetary value (RFM analysis)
 
-Visualized dendrograms to determine optimal cluster separation.
+Visualized dendrograms to determine optimal cluster separation
 
-Compared user clusters to identify loyal customers, discount-seekers, and one-time buyers.
+Compared user clusters to identify loyal customers, discount-seekers, and one-time buyers
 
-Derived insights for targeted promotions and recommendation systems.
-
+Derived insights for targeted promotions and recommendation systems
 
 4. Smart City Sensor – Air Quality Clustering (Week 4)
 
@@ -83,19 +82,19 @@ Developed an unsupervised learning pipeline to analyze air pollution sensor data
 
 Highlights:
 
-Cleaned raw dataset (handled missing values -200, NaNs, duplicates).
+Cleaned raw dataset (handled missing values -200, NaNs, duplicates)
 
-Applied StandardScaler + PCA (90% variance retained).
+Applied StandardScaler + PCA (90% variance retained)
 
-Used K-Means clustering with Elbow & Silhouette methods to determine optimal cluster count.
+Used K-Means clustering with Elbow & Silhouette methods to determine optimal cluster count
 
-Evaluated clusters using Silhouette Score & Davies–Bouldin Index.
+Evaluated clusters using Silhouette Score & Davies–Bouldin Index
 
-Visualized clusters with PCA (2D), t-SNE (optional), and interactive Plotly.
+Visualized clusters with PCA (2D), t-SNE (optional), and interactive Plotly
 
-Geo-mapped sensor clusters using GeoPandas when latitude/longitude were available.
+Geo-mapped sensor clusters using GeoPandas when latitude/longitude were available
 
-Saved outputs:
+Saved Outputs:
 
 smart_city_sensor_clusters.csv → full dataset with cluster labels
 
@@ -103,6 +102,6 @@ smart_city_sensor_cluster_summary.csv → cluster-wise mean pollutant levels
 
 Cluster Interpretation:
 
-Cluster 0: Low pollution zones (cleaner air, safer for residential).
+Cluster 0: Low pollution zones (cleaner air, safer for residential)
 
-Cluster 1: High pollution zones (industrial/traffic-heavy areas).
+Cluster 1: High pollution zones (industrial/traffic-heavy areas)

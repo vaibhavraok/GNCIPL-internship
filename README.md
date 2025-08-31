@@ -13,7 +13,7 @@ This repository contains the projects completed during my internship at GLOBAL N
 # 📁 Projects Included
 # 1. Disease Diagnosis Accuracy (Week 1)
 
-Domain: Medical Science
+#Domain: Medical Science
 Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Dataset: UCI Machine Learning Repository – Disease Diagnosis Accuracy
 

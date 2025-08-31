@@ -1,4 +1,4 @@
-Internship Projects
+# Internship Projects
 
 This repository contains the projects completed during my internship at GLOBAL NEXT CONSULTING INDIA PRIVATE LIMITED (GNCIPL).
 
@@ -10,8 +10,8 @@ This repository contains the projects completed during my internship at GLOBAL N
 
 🌐 Website: www.gncipl.com
 
-📁 Projects Included
-1. Disease Diagnosis Accuracy (Week 1)
+# 📁 Projects Included
+# 1. Disease Diagnosis Accuracy (Week 1)
 
 Domain: Medical Science
 Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn

@@ -13,7 +13,7 @@ This repository contains the projects completed during my internship at GLOBAL N
 # 📁 Projects Included
 # 1. Disease Diagnosis Accuracy (Week 1)
 
-#Domain: Medical Science
+# Domain: #Medical Science
 Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Dataset: UCI Machine Learning Repository – Disease Diagnosis Accuracy
 
@@ -22,15 +22,15 @@ Evaluated diagnostic accuracy of various medical tests using classification and 
 
 Highlights:
 
-    Preprocessed patient medical test results
-    
-    Built confusion matrix to evaluate predictions
-    
-    Generated ROC curves to compare test effectiveness
-    
-    Analyzed false positive and false negative rates
-    
-    Derived insights for improving diagnostic reliability
+- [Preprocessed patient medical test results]
+
+Built confusion matrix to evaluate predictions
+
+Generated ROC curves to compare test effectiveness
+
+Analyzed false positive and false negative rates
+
+Derived insights for improving diagnostic reliability
 
 2. Credit Card Fraud Detection (Week 2)
 

@@ -6,9 +6,9 @@ This repository contains the projects completed during my internship at **GLOBAL
 
 🧑‍💻 **Intern:** Vaibhav K
 
-📅 Internship Period: [Insert Duration – 24, July 2025]
+📅 **Internship Period:** [Insert Duration – 24, July 2025]
 
-🌐 Website: www.gncipl.com
+🌐 **Website:** www.gncipl.com
 
 ## 📁 Projects Included
 **1. Disease Diagnosis Accuracy (Week 1)**

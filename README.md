@@ -11,7 +11,7 @@ This repository contains the projects completed during my internship at **GLOBAL
 🌐 **Website:** www.gncipl.com
 
 # 📁 Projects Included
-**1. Disease Diagnosis Accuracy (Week 1)**
+# **1. Disease Diagnosis Accuracy (Week 1)**
 
 **Domain:** Medical Science
 
@@ -34,7 +34,7 @@ Evaluated diagnostic accuracy of various medical tests using classification and 
 
 - Derived insights for improving diagnostic reliability
 
-**2. Credit Card Fraud Detection (Week 2)**
+# **2. Credit Card Fraud Detection (Week 2)**
 
 **Domain:** Finance / Cybersecurity
 
@@ -57,7 +57,7 @@ Performed exploratory data analysis (EDA) on a highly imbalanced transaction dat
 
 - Derived actionable insights into fraudulent behavior patterns
 
-**3. E-commerce User Behavior Segmentation (Week 3)**
+# **3. E-commerce User Behavior Segmentation (Week 3)**
 
 **Domain:** E-commerce / Customer Analytics
 
@@ -80,7 +80,7 @@ Implemented customer segmentation for an e-commerce platform by analyzing user p
 
 - Derived insights for targeted promotions and recommendation systems
 
-**4. Smart City Sensor – Air Quality Clustering (Week 4)**
+# **4. Smart City Sensor – Air Quality Clustering (Week 4)**
 
 **Domain:** Environmental Data Science / Unsupervised Machine Learning
 
@@ -117,7 +117,7 @@ Developed an unsupervised learning pipeline to analyze air pollution sensor data
 
 - Cluster 1: High pollution zones (industrial/traffic-heavy areas)
 
- **5. MNIST Digit Classifier (Week 5)**
+# **5. MNIST Digit Classifier (Week 5)**
 
 **Domain:** Computer Vision / Deep Learning
 

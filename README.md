@@ -14,7 +14,9 @@ This repository contains the projects completed during my internship at **GLOBAL
 **1. Disease Diagnosis Accuracy (Week 1)**
 
 **Domain:** Medical Science
+
 **Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 **Dataset:** UCI Machine Learning Repository – Disease Diagnosis Accuracy
 
 **Description:**
@@ -35,7 +37,9 @@ Evaluated diagnostic accuracy of various medical tests using classification and 
 **2. Credit Card Fraud Detection (Week 2)**
 
 **Domain:** Finance / Cybersecurity
+
 **Tools Used:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, PCA
+
 **Dataset:** Kaggle – Credit Card Fraud Detection (Anonymized Transaction Data)
 
 **Description:**
@@ -56,7 +60,9 @@ Performed exploratory data analysis (EDA) on a highly imbalanced transaction dat
 **3. E-commerce User Behavior Segmentation (Week 3)**
 
 **Domain:** E-commerce / Customer Analytics
+
 **Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Hierarchical Clustering
+
 **Dataset:** UCI Online Retail Dataset
 
 **Description:**
@@ -77,7 +83,9 @@ Implemented customer segmentation for an e-commerce platform by analyzing user p
 **4. Smart City Sensor – Air Quality Clustering (Week 4)**
 
 **Domain:** Environmental Data Science / Unsupervised Machine Learning
+
 **Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, GeoPandas, PCA, K-Means, t-SNE
+
 **Dataset:** Kaggle – Air Quality Dataset
 
 **Description:**
@@ -112,7 +120,9 @@ Developed an unsupervised learning pipeline to analyze air pollution sensor data
 # 5. MNIST Digit Classifier (Week 5)
 
 **Domain:** Computer Vision / Deep Learning
+
 **Tools Used:** Python, NumPy, Keras, TensorFlow, Matplotlib
+
 **Dataset:** MNIST Handwritten Digits (60,000 train, 10,000 test images)
 
 **Description:**

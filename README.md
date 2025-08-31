@@ -1,26 +1,26 @@
 ## Internship Projects
 
-This repository contains the projects completed during my internship at GLOBAL NEXT CONSULTING INDIA PRIVATE LIMITED (GNCIPL).
+This repository contains the projects completed during my internship at **GLOBAL NEXT CONSULTING INDIA PRIVATE LIMITED (GNCIPL)**.
 
-🏢 Company: GLOBAL NEXT CONSULTING INDIA PVT. LTD.
+🏢 **Company:** GLOBAL NEXT CONSULTING INDIA PVT. LTD.
 
-🧑‍💻 Intern: Vaibhav K
+🧑‍💻 **Intern:** Vaibhav K
 
 📅 Internship Period: [Insert Duration – 24, July 2025]
 
 🌐 Website: www.gncipl.com
 
 ## 📁 Projects Included
-# 1. Disease Diagnosis Accuracy (Week 1)
+**1. Disease Diagnosis Accuracy (Week 1)**
 
-Domain: Medical Science
-Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-Dataset: UCI Machine Learning Repository – Disease Diagnosis Accuracy
+**Domain:** Medical Science
+**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+**Dataset:** UCI Machine Learning Repository – Disease Diagnosis Accuracy
 
-Description:
+**Description:**
 Evaluated diagnostic accuracy of various medical tests using classification and evaluation metrics. The project focused on quantifying false positives, false negatives, sensitivity, and specificity for disease diagnosis.
 
-Highlights:
+**Highlights:**
 
 - Preprocessed patient medical test results
 
@@ -32,16 +32,16 @@ Highlights:
 
 - Derived insights for improving diagnostic reliability
 
-# 2. Credit Card Fraud Detection (Week 2)
+**2. Credit Card Fraud Detection (Week 2)**
 
-Domain: Finance / Cybersecurity
-Tools Used: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, PCA
-Dataset: Kaggle – Credit Card Fraud Detection (Anonymized Transaction Data)
+**Domain:** Finance / Cybersecurity
+**Tools Used:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, PCA
+**Dataset:** Kaggle – Credit Card Fraud Detection (Anonymized Transaction Data)
 
-Description:
+**Description:**
 Performed exploratory data analysis (EDA) on a highly imbalanced transaction dataset to detect fraudulent activities. Focused on anomaly detection, outlier patterns, and clustering of suspicious transactions.
 
-Highlights:
+**Highlights:**
 
 - Cleaned anonymized credit card transaction data
 
@@ -53,16 +53,16 @@ Highlights:
 
 - Derived actionable insights into fraudulent behavior patterns
 
-# 3. E-commerce User Behavior Segmentation (Week 3)
+**3. E-commerce User Behavior Segmentation (Week 3)**
 
-Domain: E-commerce / Customer Analytics
-Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Hierarchical Clustering
-Dataset: UCI Online Retail Dataset
+**Domain:** E-commerce / Customer Analytics
+**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Hierarchical Clustering
+**Dataset:** UCI Online Retail Dataset
 
-Description:
+**Description:**
 Implemented customer segmentation for an e-commerce platform by analyzing user purchase behavior. The project aimed to identify different shopper types for better personalization and marketing strategies.
 
-Highlights:
+**Highlights:**
 
 - Preprocessed online retail transaction logs (removed duplicates, handled missing values)
 
@@ -74,16 +74,16 @@ Highlights:
 
 - Derived insights for targeted promotions and recommendation systems
 
-4. Smart City Sensor – Air Quality Clustering (Week 4)
+**4. Smart City Sensor – Air Quality Clustering (Week 4)**
 
-Domain: Environmental Data Science / Unsupervised Machine Learning
-Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, GeoPandas, PCA, K-Means, t-SNE
-Dataset: Kaggle – Air Quality Dataset
+**Domain:** Environmental Data Science / Unsupervised Machine Learning
+**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, GeoPandas, PCA, K-Means, t-SNE
+**Dataset:** Kaggle – Air Quality Dataset
 
-Description:
+**Description:**
 Developed an unsupervised learning pipeline to analyze air pollution sensor data in a smart city setup. The project focused on preprocessing, dimensionality reduction, clustering, and visualization of pollution patterns to create sensor-based zones.
 
-Highlights:
+**Highlights:**
 
 - Cleaned raw dataset (handled missing values -200, NaNs, duplicates)
 
@@ -97,13 +97,13 @@ Highlights:
 
 - Geo-mapped sensor clusters using GeoPandas when latitude/longitude were available
 
-Saved Outputs:
+**Saved Outputs:**
 
 - smart_city_sensor_clusters.csv → full dataset with cluster labels
 
 - smart_city_sensor_cluster_summary.csv → cluster-wise mean pollutant levels
 
-Cluster Interpretation:
+**Cluster Interpretation:**
 
 - Cluster 0: Low pollution zones (cleaner air, safer for residential)
 
@@ -111,14 +111,14 @@ Cluster Interpretation:
 
 # 5. MNIST Digit Classifier (Week 5)
 
-Domain: Computer Vision / Deep Learning
-Tools Used: Python, NumPy, Keras, TensorFlow, Matplotlib
-Dataset: MNIST Handwritten Digits (60,000 train, 10,000 test images)
+**Domain:** Computer Vision / Deep Learning
+**Tools Used:** Python, NumPy, Keras, TensorFlow, Matplotlib
+**Dataset:** MNIST Handwritten Digits (60,000 train, 10,000 test images)
 
-Description:
+**Description:**
 Built an Artificial Neural Network (ANN) model to classify handwritten digits (0–9) using the MNIST dataset. The project demonstrated fundamental deep learning concepts including forward propagation, backpropagation, and softmax activation.
 
-Highlights:
+**Highlights:**
 
 - Preprocessed grayscale images (28×28 pixels).
 

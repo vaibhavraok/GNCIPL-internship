@@ -22,7 +22,7 @@ Evaluated diagnostic accuracy of various medical tests using classification and 
 
 Highlights:
 
-- [Preprocessed patient medical test results]
+- Preprocessed patient medical test results
 
 Built confusion matrix to evaluate predictions
 

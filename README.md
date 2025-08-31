@@ -1,4 +1,4 @@
-## Internship Projects
+# Internship Projects
 
 This repository contains the projects completed during my internship at **GLOBAL NEXT CONSULTING INDIA PRIVATE LIMITED (GNCIPL)**.
 
@@ -10,7 +10,7 @@ This repository contains the projects completed during my internship at **GLOBAL
 
 🌐 **Website:** www.gncipl.com
 
-## 📁 Projects Included
+# 📁 Projects Included
 **1. Disease Diagnosis Accuracy (Week 1)**
 
 **Domain:** Medical Science
@@ -117,7 +117,7 @@ Developed an unsupervised learning pipeline to analyze air pollution sensor data
 
 - Cluster 1: High pollution zones (industrial/traffic-heavy areas)
 
-# 5. MNIST Digit Classifier (Week 5)
+ **5. MNIST Digit Classifier (Week 5)**
 
 **Domain:** Computer Vision / Deep Learning
 

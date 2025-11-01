@@ -159,6 +159,6 @@ This project focused on improving sentiment analysis performance by augmenting r
 - Allowed model comparison: **Baseline vs Augmented**
 
 📄 **Project Documentation:** [View Documentation](https://docs.google.com/document/d/1iomBIAV42uMKoIjJoQYkBMfgK4_UMRg1adfi_47YiDQ/edit?usp=sharing)  
-📊 **Presentation (PPT):** [View Slides](#)  
-
+📊 **Presentation (PPT):** [View Slides](https://docs.google.com/presentation/d/1G3LO-rnCzu57rDETwwbXUHczOfbgp7iF/edit?usp=sharing&ouid=114709268787572312826&rtpof=true&sd=true)  
+🚀 **Live Demo:** [Try it Here](https://huggingface.co/spaces/VaibhavRaoK/Vaibhavs-sentiment-analysis-gpt2-augmentation)
 
